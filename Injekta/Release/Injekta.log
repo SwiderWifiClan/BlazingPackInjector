@@ -1,0 +1,8 @@
+﻿  Injekta.cpp
+C:\Users\kamil\source\repos\Injekta\Injekta\Injekta.cpp(32,22): warning C4129: "h": nierozpoznany znak sekwencji ucieczki
+  Trwa generowanie kodu
+  6 of 33 functions (18.2%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Injekta.vcxproj -> C:\Users\kamil\source\repos\Injekta\Release\Injekta.exe
